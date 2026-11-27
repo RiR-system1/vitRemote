@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">vitRemote</string>
+    <string name="service_label">vitRemote cloud remote control</string>
+    <string name="notification_listener_label">vitRemote notification sync</string>
+    <string name="overlay_service_label">vitRemote AI ভয়েস ওভারলে</string>
+    <string name="service_desc">Lets an authorized viewer with your permanent 9-digit device code view and control this phone remotely over the internet: navigation, gestures, media, clipboard, screenshots, and text input.</string>
+    <string name="status_inactive">Inactive</string>
+    <string name="status_cloud_off">Cloud off</string>
+    <string name="status_starting">Connecting</string>
+    <string name="status_ready">Cloud Ready</string>
+    <string name="section_permissions">Permissions &amp; Setup</string>
+    <string name="section_cloud">Cloud Controls</string>
+    <string name="section_device">Device Telemetry</string>
+    <string name="label_accessibility">Accessibility Service</string>
+    <string name="label_screen_capture">Screen Capture</string>
+    <string name="label_screen_lock">Screen Lock</string>
+    <string name="label_unrestricted_battery">Unrestricted Battery</string>
+    <string name="label_notifications">Notifications</string>
+    <string name="action_connect_device">ডিভাইস কানেক্ট করুন</string>
+    <string name="action_enable">Enable</string>
+    <string name="action_allow">Allow</string>
+    <string name="state_on">On</string>
+    <string name="copied_toast">Code copied</string>
+    <string name="cd_copy_code">Copy device code</string>
+    <string name="cd_status_indicator">Cloud status indicator</string>
+    <string name="cd_app_icon">vitRemote icon</string>
+</resources>

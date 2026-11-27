@@ -1,0 +1,40 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val SeedBlue = Color(0xFF3D5AFE)
+val PrimaryLight = Color(0xFF3D5AFE)
+val OnPrimaryLight = Color(0xFFFFFFFF)
+val PrimaryContainerLight = Color(0xFFDFE0FF)
+val OnPrimaryContainerLight = Color(0xFF00105C)
+val SecondaryLight = Color(0xFF5B5D72)
+val SecondaryContainerLight = Color(0xFFE0E1F9)
+val SurfaceLight = Color(0xFFFBF8FF)
+val SurfaceContainerLight = Color(0xFFF3F1FB)
+val SurfaceContainerHighLight = Color(0xFFE9E7F3)
+val OnSurfaceLight = Color(0xFF1B1B21)
+val OnSurfaceVariantLight = Color(0xFF46464F)
+val OutlineVariantLight = Color(0xFFC6C5D0)
+
+val PrimaryDark = Color(0xFFB9C3FF)
+val OnPrimaryDark = Color(0xFF11277F)
+val PrimaryContainerDark = Color(0xFF2C3E96)
+val OnPrimaryContainerDark = Color(0xFFDFE0FF)
+val SecondaryDark = Color(0xFFC4C5DD)
+val SecondaryContainerDark = Color(0xFF434559)
+val SurfaceDark = Color(0xFF121318)
+val SurfaceContainerDark = Color(0xFF1B1B21)
+val SurfaceContainerHighDark = Color(0xFF292A2F)
+val OnSurfaceDark = Color(0xFFE4E1E9)
+val OnSurfaceVariantDark = Color(0xFFC6C5D0)
+val OutlineVariantDark = Color(0xFF46464F)
+
+val StatusOkLight = Color(0xFF2E7D32)
+val StatusOkContainerLight = Color(0xFFDDF5DF)
+val StatusBadLight = Color(0xFFC62828)
+val StatusBadContainerLight = Color(0xFFFDE8E8)
+
+val StatusOkDark = Color(0xFF7DD99A)
+val StatusOkContainerDark = Color(0xFF1B3B24)
+val StatusBadDark = Color(0xFFFFB4AB)
+val StatusBadContainerDark = Color(0xFF4F1B1A)
